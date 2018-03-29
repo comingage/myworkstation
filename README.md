@@ -1,7 +1,10 @@
 # myworkstation
 Dedicated to setup my desktop environment
-git
-openssh
+Done:
+* git
+* openssh
+
+
 cudas + cudnn
 spotify
 vlc
