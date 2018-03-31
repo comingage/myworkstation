@@ -4,7 +4,7 @@ Done:
 * git
 * openssh
 
-
+plex
 cudas + cudnn
 spotify
 vlc
