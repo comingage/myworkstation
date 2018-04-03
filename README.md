@@ -1,22 +1,19 @@
 # myworkstation
-Dedicated to setup my desktop environment
-Done:
+Dedicated to setup my desktop environment<br>
 * git
 * openssh
-
-plex
+* maven
+* oracle jdk
+* anaconda3
+* jetbrains toolbox
+* fuse
 cudas + cudnn
-spotify
-vlc
-jetbrains toolbox
-kodi
-kuki tv
+
 okular
-oracle jdk8
 psensor
 steam
 visual studio code
-anaconda3
+
 digits
 deeplearning4j
 tensorflow
